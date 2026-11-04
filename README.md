@@ -20,8 +20,9 @@ Language: **English** |
   <img src="img.readme/Python-logo.png" width="50px" alt="Python">
 </picture>
 
+</picture>
 <img src="img.readme/HTML_Logo.png" width="50px" alt="HTML">
-
+</picture>
 ---
 
 ## Featured Projects
