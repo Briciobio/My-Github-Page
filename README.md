@@ -11,13 +11,13 @@ Language: **English** |
 ### Languages and Tools
 
 <picture>
-  <source srcset="img.readme/C-logo.png">
-  <img src="img.readme/C-logo.png" width="50px" alt="C">
+  <source srcset="img.readme/C-Logo.png">
+  <img src="img.readme/C-Logo.png" width="50px" alt="C">
 </picture>
 
 <picture>
-  <source srcset="img.readme/python-logo.png">
-  <img src="img.readme/python-logo.png" width="50px" alt="Python">
+  <source srcset="img.readme/Python-Logo.png">
+  <img src="img.readme/Python-Logo.png" width="50px" alt="Python">
 </picture>
 
 <picture>
