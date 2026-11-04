@@ -1,7 +1,7 @@
 Language: **English** |
 [Português](README.pt.md)
 
-<img src="img/airplane.gif" alt="spirtfire">
+<img src="img.readme/queda.gif" >
 
 # Hello
 <p> My name's Fabricio Coutinho, I'm  18 years old and a <b>Computer Science student</b> in my 2nd semester.</p>
