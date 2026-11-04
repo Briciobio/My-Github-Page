@@ -21,8 +21,8 @@ Language: **English** |
 </picture>
 
 <picture>
-  <source srcset="img/HTML-logo.png">
-  <img src="img/HTML-logo.png" width="50px" alt="HTML">
+  <source srcset="img.readme/HTML-logo.png">
+  <img src="img.readme/HTML-logo.png" width="50px" alt="HTML">
 </picture>
 
 ---
