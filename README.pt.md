@@ -1,7 +1,7 @@
 Language: **Português** |
 [English](README.md)
 
-<img src="img.readme/queda.gif" alt="spirtfire">
+<img src="img.readme/queda.gif" width="300px" alt="Meu GIF">
 
 # Olá
 <p> Meu nome é Fabricio Coutinho, tenho 18 anos <b>aluno de ciencias da computação </b> no meu 2 sementre </p>
