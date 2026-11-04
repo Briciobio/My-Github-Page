@@ -10,7 +10,19 @@ Language: **English** |
 
 ### Languages and Tools
 
-[<picture> srcset="img.readme/C-logo.png" width="50px"><picture><source media= srcset="img.readme/pyton-logo.png" width="50px">srcset="img/HTML_Logo.png<img width="50px"
+
+<a href="https://github.com/Matheus-212?tab=repositories&language=c">
+  <img src="img.readme/C-logo.png" width="50px" alt="C">
+</a>
+
+<a href="https://github.com/Matheus-212?tab=repositories&language=python">
+  <img src="img.readme/python-logo.png" width="50px" alt="Python">
+</a>
+
+<a href="https://github.com/Matheus-212">
+  <img src="img/HTML_Logo.png" width="50px" alt="HTML">
+</a>
+
 
 ---
 
