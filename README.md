@@ -20,10 +20,7 @@ Language: **English** |
   <img src="img.readme/Python-logo.png" width="50px" alt="Python">
 </picture>
 
-<picture>
-  <source srcset="img/HTML_logo.png">
-  <img src="img/HTML_logo.png" width="50px" alt="HTML">
-</picture>
+<img src="img.readme/HTML_Logo.png" width="50px" alt="HTML">
 
 ---
 
